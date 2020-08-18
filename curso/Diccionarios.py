@@ -5,7 +5,7 @@ colores["yellow"] = "amarillo"
 
 del(colores["blue"])
 
-print(colores)"""
+print()"""
 
 equipo = {10: "Messi", 11: "Neymar",7:"Cristiano"}
 
